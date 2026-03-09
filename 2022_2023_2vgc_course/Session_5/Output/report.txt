@@ -1,0 +1,41 @@
+REPORT
+ 
+RANGE
+
+           top_interval:   4600.0 
+          base_interval:   5250.0 
+               interval:   650.0 
+                   step:   0.5 
+                samples:   1301 
+
+SHALE VOLUME
+
+                  gr_cl:   17 
+                  gr_sh:   157 
+
+WATER RESISTIVITY
+
+           estimation @:   4900 
+                     ro:   3.32 
+                    phi:   0.15 
+                     rw:   0.07469999999999999 
+                   temp:   98.73 
+
+ARCHIE SW
+
+                      a:   1 
+                      m:   2 
+                      n:   2 
+
+SUMMATION CUTOFF
+
+                     vsh  <  0.15 
+                     phi  >  0.08 
+                      sw  <  0.85 
+
+SUMMATION RESULTS
+
+                   sand:  209.0 
+                    res:  187.0 
+               sand_ntg:  0.32153846153846155 
+                    pay:  111.5 

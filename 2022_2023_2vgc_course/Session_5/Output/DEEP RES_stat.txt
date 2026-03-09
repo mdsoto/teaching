@@ -1,0 +1,22 @@
+Statistics of DEEP RES 
+ 
+Minimum value          :3.2588 
+P33                    :15.5849 
+Mean                   :36.7552099923136 
+P66                    :37.7685 
+Maximum value          :475.4384 
+Range                  :472.1796 
+Standard deviation     :45.485871155924016 
+Mean + 3std            :173.21282346008564 
+ 
+Statistics of filter DEEP RES 
+ 
+Minimum value          :11.9712 
+P33                    :64.238255 
+Mean                   :74.59962083333333 
+P66                    :83.940622 
+Maximum value          :169.3793 
+Range                  :157.4081 
+Mean                   :74.59962083333333 
+Standard deviation     :33.31039557626008 
+Mean + 3std            :174.53080756211358 
