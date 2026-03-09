@@ -1,9 +1,0 @@
-Very simple Statistical parameters. 
-Weight % of Zinc in a quartz vein. 
-Pulacayo nine, Bolivia. 
- 
-Minimum value          =3.7
-Maximum value          =39.3 
-Range                  =35.599999999999994 
-Mean                   =15.607627118644068 
- 

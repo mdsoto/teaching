@@ -1,7 +1,0 @@
-Today is 28/11/2022
-
-This is a text file. 
-
-In fact, a very simple one. 
-
-This is the end of the file.
