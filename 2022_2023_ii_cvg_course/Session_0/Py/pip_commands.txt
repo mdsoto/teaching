@@ -1,0 +1,10 @@
+pip unistall package
+
+python -m pip freeze
+
+package.__version__
+
+which package
+
+
+
