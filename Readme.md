@@ -1,4 +1,4 @@
-Materials given in different courses. Folders can be downloaded individually by using the following tool: <br>
+Materials were given in different courses and brief introductions to Python. Folders can be downloaded individually by using the following tool: <br>
 [https://downgit.github.io/#/home?url=](https://downgit.github.io/#/home)
 
 * 2021, AAPG-USB Student Chapter, Basic Python for Log Analysis, 25 participants
