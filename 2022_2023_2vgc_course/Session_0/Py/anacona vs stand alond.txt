@@ -1,0 +1,5 @@
+5.7 - 9 GB for the Anaconda instalation
+
+vs
+
+1 GB for thestand alone Python installation
