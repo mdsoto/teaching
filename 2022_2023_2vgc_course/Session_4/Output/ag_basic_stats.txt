@@ -1,9 +1,0 @@
-Very simple Statistical parameters. 
-Weight % of Silver in a quartz vein. 
-North Luwu Regency, South Sulawesi Province, Indonesia. 
- 
-Minimum value          = 0.01
-Maximum value          = 6.12 
-Range                  = 6.11 
-Mean                   = 0.3915 
- 
